@@ -698,7 +698,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 200.00, 200.0, 4166.91, 285.67 } //measured, Z not micro-stepping?
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 201.00, 201.8, 4175.7, 296.2} //measured, Z not micro-stepping?
 
 /**
  * Default Max Feed Rate (mm/s)
